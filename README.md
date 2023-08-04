@@ -33,9 +33,13 @@ All tasks here are compulsory.
 You will earn Bonus Points if you complete any or all of the following tasks:
 
 1. Add a checkbox before each question. When a question is marked, change its background color to green. (10 points)
-2. Store the marked questions so that the information is preserved even after the website is closed/reloaded. (30 points)
-3. Allow users to create a new category and add a question under any category. Ensure this information is stored in the browser. (60 points)
-
+2. Implement a dark mode toggle button to enhance the user experience. (20 points)
+3. Add keyboard shortcuts to navigate through questions easily (e.g., arrow keys). (20 points)
+4. Include a search bar that allows users to search for specific questions by keywords or category titles. (20 points)
+5. Store the marked questions so that the information is preserved even after the website is closed/reloaded. (30 points)
+6. Create a progress bar that tracks the user's completion rate of answered questions. (30 points)
+7. Add a feature that allows users to bookmark questions for later review. The bookmarked questions must be displayed together on a new page/section (40 points)
+8. Allow users to create a new category and add a question under any category. Ensure this information is stored in the browser. (70 points)
 
 API Link: 
 ```
@@ -53,10 +57,10 @@ https://test-data-gules.vercel.app/data.json
 
 ## Scoring
 
-- Starters: 20 points
-- Main Course - DSA GeekSheet: 60 points
-- Dessert (Optional Tasks): Up to 100 bonus points
-- Code Quality, Responsiveness, and Adherence to Rules: Up to 20 points
+- Starters: 50 points
+- Main Course - DSA GeekSheet: 200 points
+- Dessert (Optional Tasks): Up to 240 bonus points
+- Code Quality, Responsiveness: Up to 200 points
 
 ## Testing
 
