@@ -49,11 +49,12 @@ https://test-data-gules.vercel.app/data.json
 
 ## Rules
 
-1. Fork this repository and make changes in the existing files; do not create new files.
-2. Deploy your website on GitHub Pages (it is free for students) or any other platform.
-3. Write your Name and Enrollment Number in the .md file of your repo.
-4. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
-5. Your code will be checked for plagiarism, so avoid copying code from others.
+1. Deploy your website on GitHub Pages (it is free for students) or any other platform.
+2. Write your Name and Enrollment Number in the .md file of your repo.
+3. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
+4. Your code will be checked for plagiarism, so avoid copying code from others. In cases where significant similarities or direct copying are found, the respective submission will be disqualified from the selection process.
+5. Avoid copying directly from ChatGPT or any other AI. We expect original work from all candidates.
+6. You are encouraged to seek guidance and learn from various web development resources, but ensure that your final submission represents your unique work and creativity.
 
 ## Scoring
 
