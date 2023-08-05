@@ -70,3 +70,4 @@ We will test your website using a larger dataset to ensure responsiveness.
 ## Support
 For any doubts/queries you can add a comment in this [issue](https://github.com/GeekHaven/WebD-Selection-23-24-Task1/issues/1).
 
+00110101 01000001 01001110
