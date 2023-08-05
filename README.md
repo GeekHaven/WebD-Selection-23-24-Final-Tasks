@@ -26,7 +26,7 @@ All tasks here are compulsory.
 1. Fetch the questions along with their category titles from the API Link given below.
 2. Display the questions in an accordion format.
 3. Use the category title as the accordion heading, and the questions should expand on clicking the title.
-4. Ensure your website is responsive for a larger dataset. We will test your website using a different API link with more data.
+4. Ensure your website is responsive for a larger dataset. We will change the amount of questions and topics in the API during testing.
 
 ### Dessert (Optional)
 
