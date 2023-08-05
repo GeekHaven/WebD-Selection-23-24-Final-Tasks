@@ -6,7 +6,7 @@ The Selection Process would involve 3 phases. The students shortlisted in phase 
 
 The third phase would be interviews, the details of which would be shared later.
 
-## Phase 1: Deadline - 7/7/23 11:59pm
+## Phase 1: Deadline - 8/7/23 11:59pm
 
 ### Starters
 
