@@ -10,13 +10,13 @@ The third phase would be interviews, the details of which would be shared later.
 
 ### Starters
 
-1. Create a private repository named "WebD-Selection" on GitHub.
-2. Add the following coordinators as collaborators to the repository:
+1. Create a private repository named `WebD-Selection-Task-1` on GitHub.
+2. Add the following GitHub profiles as collaborators to the repository:
    - atharva-gadekar
    - buddylonglegs
    - GammaMicrowave
    - Manas2403
-3. Clone the "WebD-Selection" repository to your local system.
+3. Clone the `WebD-Selection-Task-1` repository to your local system.
 4. Add the provided boilerplate code files to your codebase (Optional).
 
 ### Main Course - DSA GeekSheet
