@@ -50,7 +50,7 @@ https://test-data-gules.vercel.app/data.json
 ## Rules
 
 1. Deploy your website on GitHub Pages (it is free for students) or any other platform.
-2. Write your Name and Enrollment Number in the .md file of your repo.
+2. Write your Name, Enrollment Number and WhatsApp number in the .md file of your repo.
 3. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
 4. Your code will be checked for plagiarism, so avoid copying code from others. In cases where significant similarities or direct copying are found, the respective submission will be disqualified from the selection process.
 5. Avoid copying directly from ChatGPT or any other AI. We expect original work from all candidates.
