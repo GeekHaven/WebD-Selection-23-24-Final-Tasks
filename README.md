@@ -52,7 +52,7 @@ https://test-data-gules.vercel.app/data.json
 ## Rules
 
 1. Deploy your website on GitHub Pages (it is free for students) or any other platform.
-2. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
+2. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed. Also creating a backend or using another API is not allowed.
 3. Your code will be checked for plagiarism, so avoid copying code from others. In cases where significant similarities or direct copying are found, the respective submission will be disqualified from the selection process.
 4. Avoid copying directly from ChatGPT or any other AI. We expect original work from all candidates.
 5. You are encouraged to seek guidance and learn from various web development resources, but ensure that your final submission represents your unique work and creativity.
