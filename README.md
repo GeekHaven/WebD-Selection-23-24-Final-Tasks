@@ -18,7 +18,8 @@ The third phase would be interviews, the details of which would be shared later.
    - GammaMicrowave
    - Manas2403
 4. Clone the `WebD-Selection-Task-1` repository to your local system.
-5. Add the provided boilerplate code files to your codebase (Optional).
+5. Fill [this](https://forms.gle/DwunA4dYkZuWDwQL8) Google Form for becoming a part of selection process.
+6. Add the provided boilerplate code files to your codebase (Optional).
 
 ### Main Course - DSA GeekSheet
 
