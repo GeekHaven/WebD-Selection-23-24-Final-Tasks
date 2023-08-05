@@ -11,13 +11,14 @@ The third phase would be interviews, the details of which would be shared later.
 ### Starters
 
 1. Create a private repository named `WebD-Selection-Task-1` on GitHub.
-2. Add the following GitHub profiles as collaborators to the repository:
+2. Write your Name, Enrollment Number, WhatsApp number, and preferred bucket (Frontend/Backend) in the README.md file of your repo.
+3. Add the following GitHub profiles as collaborators to the repository:
    - atharva-gadekar
    - BuddyLongLegs
    - GammaMicrowave
    - Manas2403
-3. Clone the `WebD-Selection-Task-1` repository to your local system.
-4. Add the provided boilerplate code files to your codebase (Optional).
+4. Clone the `WebD-Selection-Task-1` repository to your local system.
+5. Add the provided boilerplate code files to your codebase (Optional).
 
 ### Main Course - DSA GeekSheet
 
@@ -50,11 +51,10 @@ https://test-data-gules.vercel.app/data.json
 ## Rules
 
 1. Deploy your website on GitHub Pages (it is free for students) or any other platform.
-2. Write your Name, Enrollment Number and WhatsApp number in the .md file of your repo.
-3. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
-4. Your code will be checked for plagiarism, so avoid copying code from others. In cases where significant similarities or direct copying are found, the respective submission will be disqualified from the selection process.
-5. Avoid copying directly from ChatGPT or any other AI. We expect original work from all candidates.
-6. You are encouraged to seek guidance and learn from various web development resources, but ensure that your final submission represents your unique work and creativity.
+2. Use only vanilla CSS and JavaScript; external frameworks like Bootstrap are not allowed.
+3. Your code will be checked for plagiarism, so avoid copying code from others. In cases where significant similarities or direct copying are found, the respective submission will be disqualified from the selection process.
+4. Avoid copying directly from ChatGPT or any other AI. We expect original work from all candidates.
+5. You are encouraged to seek guidance and learn from various web development resources, but ensure that your final submission represents your unique work and creativity.
 
 ## Scoring
 
