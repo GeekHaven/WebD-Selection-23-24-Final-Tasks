@@ -13,7 +13,7 @@ The third phase would be interviews, the details of which would be shared later.
 1. Create a private repository named `WebD-Selection-Task-1` on GitHub.
 2. Add the following GitHub profiles as collaborators to the repository:
    - atharva-gadekar
-   - buddylonglegs
+   - BuddyLongLegs
    - GammaMicrowave
    - Manas2403
 3. Clone the `WebD-Selection-Task-1` repository to your local system.
