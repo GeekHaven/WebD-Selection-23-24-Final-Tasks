@@ -41,8 +41,6 @@
 
 ## Magical Tools and Codex
 
-- Unveil the Enchanted Libraries:
-  - Leverage the wizardry of TailwindCss, AntDesign, or Material UI for crafting splendid UI experiences.
 - Channel the Power of Databases:
   - Embark on a quest with MongoDB, or venture into the realm of MySQL, perhaps even earning Extra Charms for mastering the SQL arts.
 - Scribe the Spells of Documentation:
