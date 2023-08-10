@@ -8,18 +8,18 @@
 
 ## Starting the Fire
 
-1. **Ignite Your Repository** (5 points)
+1. **Ignite Your Repository**
    - Ignite the creation of a private repository christened `WebD-Selection-Task-2` on the captivating GitHub landscape.
    - Scribble your identity by inscribing your Name, Enrollment Number, and WhatsApp number in the sacred scrolls of the README.md parchment within your repository.
    - Conjure a circle of collaboration by summoning the following GitHub sorcerers as collaborators:
      - atharva-gadekar
      - GammaMicrowave
-1. **Embrace Your Digital Clone** (5 points)
+1. **Embrace Your Digital Clone**
    - Enlist the assistance of Git's magic to clone the enchanted `WebD-Selection-Task-2` repository onto your mystical local realm.
 
 ## The Epic Journey
 
-- **Crafting the Backend Citadel** (20 points)
+- **Crafting the Backend Citadel**
    - Forging an Express.js sanctuary, fashioning a realm where the backend's might shall dwell.
    - Unveiling the Veil of Authentication and Authorization, safeguarding the sanctity of user realms.
    - Forging the Paths of API Legends:
@@ -29,15 +29,15 @@
      - Breathing Life into Posts - Gifting the Ability to Fetch and Conjure, Bearing the Burden of Pagination.
      - Granting the Power of Love and Aversion - The Art of Likes and Dislikes.
 
-- **Harnessing the Data Magic** (15 points)
+- **Harnessing the Data Magic**
    - Summon the powers of MongoDB or MySQL, hoisting their databases to record your journey (Extra Magic for SQL Mastery).
 
 ## The Sweet Optional Scrolls
 
-- **Communities in the Cosmos** (5 points): Breathe life into the concept of digital realms where users can gather, bond, and converse.
-- **Friendship Elixir** (5 points): Bestow the gift of camaraderie upon users, allowing them to join hands and become digital companions.
-- **Reel of Enchantment** (5 points): Weave a magical tapestry of ephemeral moments, allowing users to conjure short-lived visual delights.
-- **Comment Chronicles** (5 points): Allow users to pen their thoughts and embark on discussions through the mystical art of commenting.
+- **Communities in the Cosmos**: Breathe life into the concept of digital realms where users can gather, bond, and converse.
+- **Friendship Elixir**: Bestow the gift of camaraderie upon users, allowing them to join hands and become digital companions.
+- **Reel of Enchantment**: Weave a magical tapestry of ephemeral moments, allowing users to conjure short-lived visual delights.
+- **Comment Chronicles**: Allow users to pen their thoughts and embark on discussions through the mystical art of commenting.
 
 ## Magical Tools and Codex
 
@@ -50,12 +50,12 @@
 
 ## Unveiling the Mastery
 
-- **The Gaze of Evaluation** (10 points)
+- **The Gaze of Evaluation**
    - Crafting a journey of seamless backend routes, breathing life into your digital realm.
    - Safeguarding the Sanctuary - Fortifying your APIs with the cloak of authentication and authorization.
    - Nurturing a Realm of Elegance - Adorning your code with elegance, structure, and clarity.
    - The Dance of Asynchrony - Weaving asynchronous spells to orchestrate seamless enchantments.
-   - Realms of Real-Time (5 points): Elevate your creation by breathing the spirit of real-time updates into your mystical world.
+   - Realms of Real-Time : Elevate your creation by breathing the spirit of real-time updates into your mystical world.
 
 ## Presenting Your Tome
 
