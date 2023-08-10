@@ -4,7 +4,7 @@
 
 **Congratulations on taking the leap towards joining the esteemed web development wing of GeekHaven!** In this exhilarating mission, you'll harness your backend prowess to forge a simplified social media platform. Brace yourself for an immersive journey into Express.js, where you'll sculpt the foundation of a basic ***Social Media Website***.
 
-## Phase 2: Deadline - August 8, 2023, 11:59 pm
+## Phase 2: Deadline - August 18, 2023, 3 am
 
 ## Starting the Fire
 
